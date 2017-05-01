@@ -1,0 +1,26 @@
+{
+  "name": "angular-cc-number",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EverettZ/angular-cc-number.git"
+  },
+  "author": {
+    "name": "Everett Zettersten",
+    "email": "Everett@zettersten.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EverettZ/angular-cc-number.git/issues"
+  },
+  "module": "angular-cc-number.js",
+  "typings": "angular-cc-number.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
